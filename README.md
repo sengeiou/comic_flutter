@@ -14,13 +14,13 @@ MacOS
 
 ###  效果图
 
-![首页](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)
 
-![漫画详情页](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg)
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg)
 
-![漫画章节列表](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)
 
-![观看漫画](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
 
 ###  目前功能
 
