@@ -1,0 +1,4 @@
+#Sun Aug 16 22:47:12 CST 2020
+base.0=/Users/JackieLi/Desktop/comic_flutter/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
