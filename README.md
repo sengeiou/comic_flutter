@@ -10,7 +10,7 @@ MacOS
 
 ###  第三方插件
 
-![](https://img.lizhujiang.com/%E6%88%AA%E5%B1%8F2020-08-17%20%E4%B8%8A%E5%8D%885.11.18.png)
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/%E6%88%AA%E5%B1%8F2020-08-17%20%E4%B8%8A%E5%8D%885.11.18.png)
 
 ###  效果图
 
