@@ -13,11 +13,7 @@ MacOS
 ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/%E6%88%AA%E5%B1%8F2020-08-17%20%E4%B8%8A%E5%8D%885.11.18.png)
 
 ###  效果图
-| ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)
- | ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg) | ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)
- | ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
- |
-|:-|:-|:-|:-|
+![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg) | ![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)![](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
 
 ###  目前功能
 
