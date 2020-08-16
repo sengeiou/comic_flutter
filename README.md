@@ -2,6 +2,10 @@
 
 获取U17(有妖气)漫画API接口，制作一个漫画APP
 
+### APK下载地址
+[蓝奏云](https://wws.lanzous.com/b01hlvv6d)
+密码：1234
+
 ###  环境
 
 Flutter 1.17.5
