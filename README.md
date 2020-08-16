@@ -14,13 +14,13 @@ MacOS
 
 ###  效果图
 
-![](https://img.lizhujiang.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)
+![首页](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-23-42-993_com.jackieli.c.jpg)
 
-![](https://img.lizhujiang.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg)
+![漫画详情页](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-13-961_com.jackieli.c.jpg)
 
-![](https://img.lizhujiang.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)
+![漫画章节列表](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-24-234_com.jackieli.c.jpg)
 
-![](https://img.lizhujiang.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
+![观看漫画](https://jackieli.oss-cn-shenzhen.aliyuncs.com/Screenshot_2020-08-17-05-24-43-075_com.jackieli.c.jpg)
 
 ###  目前功能
 
@@ -29,3 +29,7 @@ MacOS
 - 观看漫画
 - 观看历史(待开发)
 - 漫画作者首页(待开发)
+
+
+####  国际惯例
+- 本项目只做个人学习研究之用，不得用于商业用途！
